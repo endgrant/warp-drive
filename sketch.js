@@ -1,4 +1,4 @@
-const starCount = 1200;
+const starCount = 3000;
 let stars = [];
 
 const scrollSensitivity = 0.5;
